@@ -1,2 +1,3 @@
 # HelLo-world
 Type Hello World on the screen. Very simple.
+I'm Pete, just another human on the planet Earth. Just trying to do something...
